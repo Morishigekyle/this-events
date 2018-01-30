@@ -21,7 +21,7 @@ body{
 
 .inner{
   font-size: 20px;
-  display: none;
+  /*display: none;*/
   position: absolute;
   color: cornflowerblue;
   text-decoration: none;
@@ -51,7 +51,7 @@ span{
 
 .menu{
   font-size: 20px;
-  display: none;
+  /*display: none;*/
 }
 
 .name{
